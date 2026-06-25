@@ -9,7 +9,7 @@ function Profile() {
           <div>
 
             <img
-  src="/public/WhatsApp Image 2026-04-09 at 8.36.19 PM.jpeg"
+  src="/public/profile.jpeg"
   alt="Oghenemaga Ebobo"
   className="
     w-72
