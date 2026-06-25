@@ -8,8 +8,8 @@ function Profile() {
 
           <div>
 
-            <img
-  src="/public/profile.jpeg"
+ <img
+  src="/profile.jpeg"
   alt="Oghenemaga Ebobo"
   className="
     w-72
