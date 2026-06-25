@@ -1,16 +1,82 @@
-# React + Vite
+# Oghenemaga Ebobo Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio website built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This website serves as my personal brand platform, showcasing my skills, projects, experience, and vision as a:
 
-## React Compiler
+* Network Engineer
+* Software Developer
+* Cloud Engineer
+* ICT Entrepreneur
+* Technology Mentor
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The goal of this project is to create a professional online presence while documenting my journey in technology and innovation.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Responsive design
+* Modern user interface
+* Professional landing page
+* About section
+* Skills showcase
+* Services section
+* Featured projects
+* Career journey timeline
+* Call-to-action section
+* Mobile-friendly navigation
+
+## Tech Stack
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
+* HTML5
+* CSS3
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/oghenemaga-personal-brand.git
+```
+
+Navigate into the project:
+
+```bash
+cd oghenemaga-personal-brand
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Future Improvements
+
+* Blog system
+* Contact form integration
+* GitHub project integration
+* Dark/Light mode toggle
+* SEO optimization
+* Custom domain setup
+
+## Author
+
+Oghenemaga Ebobo
+
+Building technology, infrastructure, and digital solutions for the future.
+
+## License
+
+This project is open-source and available under the Oghenemaga Signature Brand
